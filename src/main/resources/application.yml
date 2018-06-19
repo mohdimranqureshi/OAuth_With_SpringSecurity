@@ -1,0 +1,3 @@
+server: 
+       context-path: /oAuthSpringSecurity
+       port: 2003
